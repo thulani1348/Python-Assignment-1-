@@ -1,14 +1,14 @@
-AC50002
+          AC50002
 
 Programming Languages For Data 
 
-Engineering Python Assignment
+  Engineering Python Assignment
 
-Thulani Matshoba
+    Thulani Matshoba
 
-2537528
+         2537528
 
-**In this assignment i have add:**
+**In this assignment has the following files:**
 1. Python Assignment - Final .ipynb
 2. Final_Result.txt
 3. matshoba_values.txt
